@@ -39,11 +39,11 @@
 ---
 
 <h3 align="center">YAI 10th open project</h3>
-<h4 align="center">To be continued...</h4>
+<h4 align="center">YAI x Alchera </h4>
 
 <p align="center">
-<a href="https://github.com/yonsei-YAI/yonsei-YAI.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yonsei-YAI&repo=yonsei-YAI&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="yonsei-YAI/yonsei-YAI" />
+<a href="https://github.com/minsu1206/BlurFaceDetection.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="minsu1206/BlurFaceDetection" />
 </a>
 </p>
 
