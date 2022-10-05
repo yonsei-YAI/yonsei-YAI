@@ -44,7 +44,10 @@
 <p align="center">
 <a href="https://github.com/minsu1206/BlurFaceDetection.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="minsu1206/BlurFaceDetection" />
-</a>
+</p>
+<p align="center">
+<a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="YAI-alcheragan/YAI-alcheraGAN" />
 </p>
 
 ---
