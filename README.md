@@ -40,7 +40,9 @@
 <h3 align="center">YAICON 1th </h3>
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
 <p align="center">
-<img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+<a href="https://github.com/minsu1206/YAIVERSE">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
 <a href=https://youtu.be/7kqTo5sbHns>
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
 </a>
