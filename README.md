@@ -37,7 +37,50 @@
 </p>
 
 ---
-<h3 align="center">YAICON 1th </h3>
+
+<h3 align="center">YAI 11th open project</h3>
+
+<h4 align="center">Hyundai Mobis Contest</h4>
+
+<p align="center">
+<a href="https://github.com/SUNGBEOMCHOI/YAMMY.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SUNGBEOMCHOI&repo=YAMMY&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="SUNGBEOMCHOI/YAMMY" />
+</a>
+</p>
+
+<h4 align="center">KPMG Ideation Challange</h4>
+<p align="center">
+<a href="https://github.com/whwjdqls/AIC-kpmg2023.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=whwjdqls&repo=AIC-kpmg2023&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="whwjdqls/AIC-kpmg2023" />
+</a>
+</p>
+
+
+---
+
+<h3 align="center">YAI 10th open project</h3>
+<h4 align="center">YAI x Alchera </h4>
+
+<p align="center">
+<a href="https://github.com/minsu1206/BlurFaceDetection.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="minsu1206/BlurFaceDetection" />
+</p>
+<p align="center">
+<a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="YAI-alcheragan/YAI-alcheraGAN" />
+</p>
+    
+<h4 align="center">Reinforce Learning Team</h4>
+
+<p align="center">
+<a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
+</a>
+</p>
+    
+    
+<details>
+<summary align="center"><h3 align="center">YAICON 1th </h3></summary>
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
 <p align="center">
 <a href="https://github.com/minsu1206/YAIVERSE">
@@ -128,21 +171,8 @@ Real Time Object Detection </h4>
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
 </a>
 </p>
-
----
-
-<h3 align="center">YAI 10th open project</h3>
-<h4 align="center">YAI x Alchera </h4>
-
-<p align="center">
-<a href="https://github.com/minsu1206/BlurFaceDetection.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="minsu1206/BlurFaceDetection" />
-</p>
-<p align="center">
-<a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="YAI-alcheragan/YAI-alcheraGAN" />
-</p>
-
+</details>
+    
 ---
 
 <h3 align="center">YAI 9th open project</h3>
