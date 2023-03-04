@@ -40,7 +40,7 @@
 
 <h3 align="center">YAI 11th open project</h3>
 
-<h4 align="center">Hyundai Mobis Contest</h4>
+<h4 align="center">🥈 Hyundai Mobis Contest 🥈</h4>
 
 <p align="center">
 <a href="https://github.com/SUNGBEOMCHOI/YAMMY.git">
