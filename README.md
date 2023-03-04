@@ -40,7 +40,7 @@
 
 <h3 align="center">YAI 11th open project</h3>
 
-<h4 align="center">🥈 Hyundai Mobis Contest 🥈</h4>
+<h4 align="center">🥈 Hyundai Mobis SW Hackathon 🥈</h4>
 
 <p align="center">
 <a href="https://github.com/SUNGBEOMCHOI/YAMMY.git">
@@ -49,6 +49,7 @@
 </p>
 
 <h4 align="center">KPMG Ideation Challange</h4>
+
 <p align="center">
 <a href="https://github.com/whwjdqls/AIC-kpmg2023.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=whwjdqls&repo=AIC-kpmg2023&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="whwjdqls/AIC-kpmg2023" />
