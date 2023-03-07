@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D976,100:F39F86&height=250&section=header&text=YAI:%20Yonsei%20Artificial%20Intelligence&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=250&section=header&text=YAI:%20Yonsei%20Artificial%20Intelligence&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40" alt="header" width=100%/>
 </a></p>
 
 <h4 align="center">Hi 👋</h4>
@@ -250,5 +250,5 @@ Real Time Object Detection </h4>
 ---
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=150&section=footer" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=150&section=footer" alt="header" width=100%/>
 </a></p>
