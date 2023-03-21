@@ -40,6 +40,20 @@
 
 <h3 align="center">YAI 11th open project</h3>
 
+<h4 align="center">🎼 YAI x POZAlabs 🎵</h4>
+
+<p align="center">
+<a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Improving-TrXL-for-ComMU&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="YAIxPOZAlabs/Improving-TrXL-for-ComMU" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="YAIxPOZAlabs/MuseDiffusion" />
+</a>
+</p>
+
 <h4 align="center">🥈 Hyundai Mobis SW Hackathon 🥈</h4>
 
 <p align="center">
@@ -60,7 +74,7 @@
 ---
 
 <h3 align="center">YAI 10th open project</h3>
-<h4 align="center">YAI x Alchera </h4>
+<h4 align="center">📸 YAI x Alchera 🌃</h4>
 
 <p align="center">
 <a href="https://github.com/minsu1206/BlurFaceDetection.git">
@@ -177,7 +191,7 @@ Real Time Object Detection </h4>
 ---
 
 <h3 align="center">YAI 9th open project</h3>
-<h4 align="center">YAI x Lomin Project : about OCR task</h4>
+<h4 align="center">🖋️ YAI x Lomin Project : OCR task 📄</h4>
 
 <p align="center">
 <a href="https://github.com/minsu1206/OCRdistill.git">
