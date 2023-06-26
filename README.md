@@ -84,7 +84,7 @@
 
 <h4 align="center"> 🥈 Studio YAIVERSE 🥈 </h4>
 <p align="center">
-🏅 Special Award from
+🏅 Special Award @
 <a href = https://rebuilderai.com/>
     <b> RebuilderAI </b>
 </a>
