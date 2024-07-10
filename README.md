@@ -37,6 +37,81 @@
 </p>
 
 ---
+<h3 align="center">YAI 12th open project</h3>
+
+<details>
+<summary align="center"><h3 align="center">YAICON 3th </h3></summary>
+<h4 align="center"> 🥇 4D gaussian 🥇 - 1st Awards </h4>
+<p align="center">
+<a href="https://github.com/whwjdqls/4D-Gaussian-Head">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
+</p>
+
+<h4 align="center"> 🥈 Real-Time VQA 🥈 - 2nd Awards </h4>
+
+<p align="center">
+<a href="https://github.com/Merenova/YAICON-3rd">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🎉 VGGNet 🎉 - Novelty Awards </h4>
+<p align="center">
+<a href="https://github.com/devch1013/YAICON-VGGnet">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center">🎉 강화학습 🎉 - Popular Awards </h4>
+<p align="center">
+<a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 👗 슈의 의상실 2023 ver. - Special Awards </h4>
+<p align="center">
+<a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🤙🏻 손으로 말해요  </h4>
+<p align="center">
+<a href="https://github.com/cygbbhx/kslr">
+<img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 📷 NAMAN </h4>
+<p align="center">
+<a href="https://github.com/YAICON-NAMAN">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🧠 Language models are multimodal learners  </h4>
+<p align="center">
+<a href="https://github.com/ta3h30nk1m/xturing_LLAVA">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+<a href="https://www.youtube.com/watch?v=JA2QJxch55c">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+</a>
+</p>
+
+<h4 align="center"> ⚽ Dreams Come True </h4>
+<p align="center">
+<a href="https://github.com/SUNGBEOMCHOI/dreams-come-true">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+<a href="https://www.youtube.com/watch?v=zpODG9k6K0s">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+</a>
+</p>
+</details>
+
 
 <h3 align="center">YAI 11th open project</h3>
 
