@@ -1,19 +1,18 @@
 <!--### Hi there 👋 -->
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=250&section=header&text=YAI:%20Yonsei%20Artificial%20Intelligence&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF73CE,100:7A1295&height=250&section=header&text=YAI:%20Yonsei%20Artificial%20Intelligence&fontSize=40&animation=fadeIn&fontColor=FFFFFF&fontAlignY=40" alt="header" width=100%/>
 </a></p>
-
-<h4 align="center">Hi 👋</h4>
-
-<p align="center">We are <b>YAI - Yonsei Artificial Intelligence</b> :)</p>
 
 <!-- YAI logo -->
 <!--p align="center"><a href="#">
  <img src="https://user-images.githubusercontent.com/68576384/174433041-d638ff66-d616-4083-abaa-3c8c73576085.jpg" width="400" height="270">
 </a></p-->
 
-<h4 align="center">Contact us 📫</h4>
+<h3 align="center">📫 Contact us 📫</h3>
+
+<br>
+
 
 <p align="center">
 
@@ -24,23 +23,101 @@
 <a href="https://github.com/yonsei-YAI">
     <img src="https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 </a>
+<a href="https://instagram.com/yonsei.ai">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.youtube.com/@YonseiAI">
+    <img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool" alt="YouTube" />
+</a>
 <a href="https://www.facebook.com/yonseiAI">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://yai-yonsei.tistory.com/">
     <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-indigo.svg?&style=for-the-badge" alt="Tistory" />
 </a>
-<a href="https://instagram.com/yonsei.ai">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+
 
 </p>
 
+<br>
+
 ---
-<h3 align="center">YAI 12th open project</h3>
+<h3 align="center">YAI <mark>13th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">YAICON 3th </h3></summary>
+<summary align="center"><h3 align="center"> 🏆 YAICON 4th </h3></summary>
+<h4 align="center"> 🥇 YAI바위 🥇 - 1st Awards </h4>
+<p align="center">
+<a href="https://github.com/cygbbhx/YaiBawi">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
+</p>
+
+<h4 align="center"> 🥈 알잘딱깔센 🥈 - 2nd Awards </h4>
+
+<p align="center">
+<a href="https://github.com/AJTKS">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🥉 우리 아이, 귀여운 YAI 🥉 - 3rd Awards </h4>
+<p align="center">
+<a href="https://github.com/n00Nspr1ng/YAI_ouryai">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🎉 빡보검: 빡빡한 보고서 검수 🎉 - Audience Choice </h4>
+<p align="center">
+<a href="https://github.com/yaicon-4th-team-trr/yaicon-tight-report-review">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🩺 MEDSIM </h4>
+<p align="center">
+<a href="https://github.com/yai/asldkfj">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> ✨ 자취방MAKER </h4>
+<p align="center">
+<a href="https://github.com/HYUNAHKO/roomMaker_final">
+<img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 📷 Old photo restoration </h4>
+<p align="center">
+<a href="https://github.com/yjunho/Old-photo-restoration">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 📈 KGQA with Q-former </h4>
+<p align="center">
+<a href="https://github.com/yonsei-YAI/YAICON">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+<h4 align="center"> 🎹 MUSICCLAP </h4>
+<p align="center">
+<a href="https://github.com/yai">
+    <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+</p>
+
+</details>
+
+---
+
+<h3 align="center">YAI <mark>12th</mark> open project</h3>
+
+<details>
+<summary align="center"><h3 align="center">🏆 YAICON 3th </h3></summary>
 <h4 align="center"> 🥇 4D gaussian 🥇 - 1st Awards </h4>
 <p align="center">
 <a href="https://github.com/whwjdqls/4D-Gaussian-Head">
@@ -102,8 +179,10 @@
 
 ---
 
-<h3 align="center">YAI 11th open project</h3>
+<h3 align="center">YAI <mark>11th</mark> open project</h3>
 
+<details>
+<summary align="center"><h3 align="center">🏆 YAICON 2th </h3></summary>
 <h4 align="center">🎼 YAI x POZAlabs 🎵</h4>
 
 <p align="center">
@@ -134,8 +213,6 @@
 </a>
 </p>
 
-<details>
-<summary align="center"><h3 align="center">YAICON 2th </h3></summary>
 <h4 align="center"> 🥇 Ditto 🥇 </h4>
 <p align="center">
 <a href="https://github.com/devch1013/YAICON-Ditto">
@@ -237,8 +314,9 @@
 
 ---
 
-<h3 align="center">YAI 10th open project</h3>
-<h4 align="center">📸 YAI x Alchera 🌃</h4>
+<h3 align="center">YAI <mark>10th</mark> open project</h3>
+<details>
+<summary align="center"><h4 align="center">📸 YAI x Alchera 🌃</h4></summary>
 
 <p align="center">
 <a href="https://github.com/minsu1206/BlurFaceDetection.git">
@@ -248,18 +326,22 @@
 <a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="YAI-alcheragan/YAI-alcheraGAN" />
 </p>
-    
-<h4 align="center">Reinforce Learning Team</h4>
+</details>
+
+<details>
+<summary align="center"><h4 align="center">Reinforce Learning Team</h4></summary>
+
 
 <p align="center">
 <a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
 </a>
 </p>
-    
-    
+</details>
+
+
 <details>
-<summary align="center"><h3 align="center">YAICON 1th </h3></summary>
+<summary align="center"><h3 align="center">🏆 YAICON 1th </h3></summary>
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
 <p align="center">
 <a href="https://github.com/minsu1206/YAIVERSE">
@@ -354,8 +436,10 @@ Real Time Object Detection </h4>
     
 ---
 
-<h3 align="center">YAI 9th open project</h3>
-<h4 align="center">🖋️ YAI x Lomin Project : OCR task 📄</h4>
+<h3 align="center">YAI <mark>9th</mark> open project</h3>
+<details>
+<summary align="center"><h4 align="center">🖋️ YAI x Lomin Project : OCR task 📄</h4></summary>
+
 
 <p align="center">
 <a href="https://github.com/minsu1206/OCRdistill.git">
@@ -368,8 +452,11 @@ Real Time Object Detection </h4>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-Project&repo=OCR_Transformer&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7778e4,b36edb&" alt="YAI-Project/OCR_Transformer" />
 </a>
 </p>
+</details>
 
-<h4 align="center">3D Paper Reading Team</h4>
+<details>
+<summary align="center"><h4 align="center">3D Paper Reading Team</h4></summary>
+
 
 <p align="center">
 <a href="https://github.com/laphisboy/VisualizingNerfplusplus.git">
@@ -382,11 +469,14 @@ Real Time Object Detection </h4>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=laphisboy&repo=VisualizingGIRAFFE&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7778e4,b36edb&" alt="laphisboy/VisualizingGIRAFFE" />
 </a>
 </p>
+</details>
 
 ---
 
-<h3 align="center">YAI 8th open project</h3>
-<h4 align="center">Natural Language Project Team</h4>
+<h3 align="center">YAI <mark>8th</mark> open project</h3>
+<details>
+<summary align="center"><h4 align="center">Natural Language Project Team</h4></summary>
+
 
 <p align="center">
 <a href="https://github.com/YonseiAI-NLP-Group/Oracle-of-Arxiv.git">
@@ -394,7 +484,11 @@ Real Time Object Detection </h4>
 </a>
 </p>
 
-<h4 align="center">Medical AI Project Team</h4>
+</details>
+
+<details>
+<summary align="center"><h4 align="center">Medical AI Project Team</h4></summary>
+
 
 <p align="center">
 <a href="https://github.com/kdha0727/cancer-instance-segmentation-from-tissue.git">
@@ -414,16 +508,21 @@ Real Time Object Detection </h4>
 </a>
 </p>
 
+</details>
+
 ---
 
-<h3 align="center">YAI 7th open project</h3>
-<h4 align="center">Computer Vision Team</h4>
+<h3 align="center">YAI <mark>7th</mark> open project</h3>
+<details>
+<summary align="center"><h4 align="center">Computer Vision Team</h4></summary>
+
 
 <p align="center">
 <a href="https://github.com/laphisboy/StyleGAN2-KaoKore-Style-Mixing.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=laphisboy&repo=StyleGAN2-KaoKore-Style-Mixing&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="laphisboy/StyleGAN2-KaoKore-Style-Mixing" />
 </a>
 </p>
+</details>
 
 ---
 
