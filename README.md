@@ -44,7 +44,7 @@
 <h3 align="center">YAI <mark>13th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">🏆 YAICON 4th </h3></summary>
+<summary align="center"><h3 align="center">YAICON 4th</h3></summary>
     
     <h4 align="center"> 🥇 YAI바위 🥇 - 1st Awards </h4>
     <p align="center">
@@ -117,7 +117,7 @@
 <h3 align="center">YAI <mark>12th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">🏆 YAICON 3th </h3></summary>
+<summary align="center"><h3 align="center">YAICON 3th</h3></summary>
     
 <h4 align="center"> 🥇 4D gaussian 🥇 - 1st Awards </h4>
 <p align="center">
@@ -183,7 +183,7 @@
 <h3 align="center">YAI <mark>11th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">🏆 YAICON 2th </h3></summary>
+<summary align="center"><h3 align="center">YAICON 2th</h3></summary>
     
 <h4 align="center">🎼 YAI x POZAlabs 🎵</h4>
 
@@ -347,7 +347,7 @@
 
 
 <details>
-<summary align="center"><h3 align="center">🏆 YAICON 1th </h3></summary>
+<summary align="center"><h3 align="center">YAICON 1th</h3></summary>
     
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
 <p align="center">
