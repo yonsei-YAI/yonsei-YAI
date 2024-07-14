@@ -527,5 +527,5 @@ Real Time Object Detection </h4>
 ---
 
 <p align="center"><a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F885E,100:355E71&height=150&section=footer" alt="header" width=100%/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF73CE,100:7A1295&height=150&section=footer" alt="header" width=100%/>
 </a></p>
