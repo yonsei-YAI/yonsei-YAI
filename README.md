@@ -46,69 +46,69 @@
 <details>
 <summary align="center"><h3 align="center">YAICON 4th</h3></summary>
     
-    <h4 align="center"> 🥇 YAI바위 🥇 - 1st Awards </h4>
-    <p align="center">
-        <a href="https://github.com/cygbbhx/YaiBawi">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-        </a>
-    </p>
-    
-    <h4 align="center"> 🥈 알잘딱깔센 🥈 - 2nd Awards </h4>
-    
-    <p align="center">
-        <a href="https://github.com/AJTKS">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> 🥉 우리 아이, 귀여운 YAI 🥉 - 3rd Awards </h4>
-    <p align="center">
-        <a href="https://github.com/n00Nspr1ng/YAI_ouryai">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> 🎉 빡보검: 빡빡한 보고서 검수 🎉 - Audience Choice </h4>
-    <p align="center">
-        <a href="https://github.com/yaicon-4th-team-trr/yaicon-tight-report-review">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> 🩺 MEDSIM </h4>
-    <p align="center">
-        <a href="https://github.com/yai/asldkfj">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> ✨ 자취방MAKER </h4>
-    <p align="center">
-        <a href="https://github.com/HYUNAHKO/roomMaker_final">
+<h4 align="center"> 🥇 YAI바위 🥇 - 1st Awards </h4>
+<p align="center">
+    <a href="https://github.com/cygbbhx/YaiBawi">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cygbbhx&repo=YaiBawi&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7A1295,FF73CE&" alt="cygbbhx/YaiBawi" />
+    </a>
+</p>
+
+<h4 align="center"> 🥈 알잘딱깔센 🥈 - 2nd Awards </h4>
+
+<p align="center">
+    <a href="https://github.com/AJTKS">
         <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> 📷 Old photo restoration </h4>
-    <p align="center">
-        <a href="https://github.com/yjunho/Old-photo-restoration">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> 📈 KGQA with Q-former </h4>
-    <p align="center">
-        <a href="https://github.com/yonsei-YAI/YAICON">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
-    
-    <h4 align="center"> 🎹 MUSICCLAP </h4>
-    <p align="center">
-        <a href="https://github.com/yai">
-            <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        </a>
-    </p>
+    </a>
+</p>
+
+<h4 align="center"> 🥉 우리 아이, 귀여운 YAI 🥉 - 3rd Awards </h4>
+<p align="center">
+    <a href="https://github.com/n00Nspr1ng/YAI_ouryai">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=n00Nspr1ng&repo=YAI_ouryai&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7A1295,FF73CE&" alt="n00Nspr1ng/YAI_ouryai" />
+    </a>
+</p>
+
+<h4 align="center"> 🎉 빡보검: 빡빡한 보고서 검수 🎉 - Audience Choice </h4>
+<p align="center">
+    <a href="https://github.com/yaicon-4th-team-trr/yaicon-tight-report-review">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yaicon-4th-team-trr&repo=yaicon-tight-report-review&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7A1295,FF73CE&" alt="yaicon-4th-team-trr/yaicon-tight-report-review" />
+    </a>
+</p>
+
+<h4 align="center"> 🩺 MEDSIM </h4>
+<p align="center">
+    <a href="https://github.com/asldkfj">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> ✨ 자취방MAKER </h4>
+<p align="center">
+    <a href="https://github.com/HYUNAHKO/roomMaker_final">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HYUNAHKO&repo=roomMaker_final&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7A1295,FF73CE&" alt="HYUNAHKO/roomMaker_final" />
+    </a>
+</p>
+
+<h4 align="center"> 📷 Old photo restoration </h4>
+<p align="center">
+    <a href="https://github.com/yjunho/Old-photo-restoration">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yjunho&repo=Old-photo-restoration&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,7A1295,FF73CE&" alt="yjunho/Old-photo-restoration" />
+    </a>
+</p>
+
+<h4 align="center"> 📈 KGQA with Q-former </h4>
+<p align="center">
+    <a href="https://github.com/yonsei-YAI/YAICON">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🎹 MUSICCLAP </h4>
+<p align="center">
+    <a href="https://github.com/yai">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
 
 </details>
 
@@ -317,6 +317,7 @@
 ---
 
 <h3 align="center">YAI <mark>10th</mark> open project</h3>
+
 <details>
 <summary align="center"><h4 align="center">📸 YAI x Alchera 🌃</h4></summary>
 
