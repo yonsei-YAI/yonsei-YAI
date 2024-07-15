@@ -184,20 +184,7 @@
 
 <details>
 <summary align="center"><h3 align="center">YAICON 2th</h3></summary>
-    
-<h4 align="center">🎼 YAI x POZAlabs 🎵</h4>
 
-<p align="center">
-    <a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Improving-TrXL-for-ComMU&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="YAIxPOZAlabs/Improving-TrXL-for-ComMU" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="YAIxPOZAlabs/MuseDiffusion" />
-    </a>
-</p>
 
 <h4 align="center">🥈 Hyundai Mobis SW Hackathon 🥈</h4>
 
@@ -313,6 +300,22 @@
 </p>
 </details>
 
+
+<details>
+<summary align="center"><h3 align="center">🎼 YAI x POZAlabs 🎵</h3></summary>
+
+<p align="center">
+    <a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=Improving-TrXL-for-ComMU&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="YAIxPOZAlabs/Improving-TrXL-for-ComMU" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/YAIxPOZAlabs/MuseDiffusion.git">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAIxPOZAlabs&repo=MuseDiffusion&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,5F885E,355E71&" alt="YAIxPOZAlabs/MuseDiffusion" />
+    </a>
+</p>
+</details>
 
 ---
 
