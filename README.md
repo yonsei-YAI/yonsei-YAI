@@ -44,7 +44,7 @@
 <h3 align="center">YAI <mark>13th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">YAICON 4th</h3></summary>
+<summary align="center"><h3 align="center">🏆YAICON 4th</h3></summary>
     
 <h4 align="center"> 🥇 YAI바위 🥇 - 1st Awards </h4>
 <p align="center">
@@ -117,7 +117,7 @@
 <h3 align="center">YAI <mark>12th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">YAICON 3th</h3></summary>
+<summary align="center"><h3 align="center">🏆YAICON 3th</h3></summary>
     
 <h4 align="center"> 🥇 4D gaussian 🥇 - 1st Awards </h4>
 <p align="center">
@@ -183,7 +183,7 @@
 <h3 align="center">YAI <mark>11th</mark> open project</h3>
 
 <details>
-<summary align="center"><h3 align="center">YAICON 2th</h3></summary>
+<summary align="center"><h3 align="center">🏆YAICON 2th</h3></summary>
 
 
 <h4 align="center">🥈 Hyundai Mobis SW Hackathon 🥈</h4>
@@ -302,7 +302,7 @@
 
 
 <details>
-<summary align="center"><h3 align="center">🎼 YAI x POZAlabs 🎵</h3></summary>
+<summary align="center"><h4 align="center">🎼 YAI x POZAlabs 🎵</h4></summary>
 
 <p align="center">
     <a href="https://github.com/YAIxPOZAlabs/Improving-TrXL-for-ComMU.git">
@@ -321,37 +321,9 @@
 
 <h3 align="center">YAI <mark>10th</mark> open project</h3>
 
-<details>
-<summary align="center"><h4 align="center">📸 YAI x Alchera 🌃</h4></summary>
-
-<p align="center">
-    <a href="https://github.com/minsu1206/BlurFaceDetection.git">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="minsu1206/BlurFaceDetection" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="YAI-alcheragan/YAI-alcheraGAN" />
-    </a>
-</p>
-
-</details>
-
 
 <details>
-<summary align="center"><h4 align="center">Reinforce Learning Team</h4></summary>
-
-<p align="center">
-    <a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
-    </a>
-</p>
-
-</details>    
-
-
-<details>
-<summary align="center"><h3 align="center">YAICON 1th</h3></summary>
+<summary align="center"><h3 align="center">🏆YAICON 1th</h3></summary>
     
 <h4 align="center"> 🥇 YAIverse ★ 🥇</h4>
 <p align="center">
@@ -445,6 +417,35 @@ Real Time Object Detection </h4>
 </p>
 
 </details>
+
+<details>
+<summary align="center"><h4 align="center">📸 YAI x Alchera 🌃</h4></summary>
+
+<p align="center">
+    <a href="https://github.com/minsu1206/BlurFaceDetection.git">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minsu1206&repo=BlurFaceDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="minsu1206/BlurFaceDetection" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/YAI-alcheragan/YAI-alcheraGAN.git">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YAI-alcheragan&repo=YAI-alcheraGAN&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="YAI-alcheragan/YAI-alcheraGAN" />
+    </a>
+</p>
+
+</details>
+
+
+<details>
+<summary align="center"><h4 align="center">Reinforce Learning Team</h4></summary>
+
+<p align="center">
+    <a href="https://github.com/san9min/TimeSeriesAnomalyDetection.git">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=san9min&repo=TimeSeriesAnomalyDetection&title_color=fff&icon_color=f9f9f9&text_color=f9f9f9&bg_color=30,F9D976,F39F86&" alt="san9min/TimeSeriesAnomalyDetection" />
+    </a>
+</p>
+
+</details>    
+
     
 ---
 
