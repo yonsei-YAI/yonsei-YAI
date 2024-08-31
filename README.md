@@ -150,7 +150,7 @@
 
 <h4 align="center"> 👗 슈의 의상실 2023 ver. - Special Awards </h4>
 <p align="center">
-    <a href="#">
+    <a href="https://github.com/bscho333/Shu_TryOn">
         <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
     </a>
 </p>
