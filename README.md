@@ -41,6 +41,85 @@
 <br>
 
 ---
+<h3 align="center">YAI <mark>14th</mark> open project</h3>
+
+<details>
+<summary align="center"><h3 align="center">🏆YAICON 5th</h3></summary>
+
+<h4 align="center"> 🥇 두 장이면 돼 🥇</h4>
+<p align="center">
+    <a href="https://github.com/Two-Shots-Are-Enough">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🥈 비디오 비틀즈 🥈 </h4>
+<p align="center">
+    <a href="https://github.com/DongDong810/make-your-emoji">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+
+<h4 align="center"> 🥉 MLLM 키우기 🥉</h4>
+<p align="center">
+    <a href="https://github.com/rubato-yeong/YAICON24W-Multimodal">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🖍️ YAIQ - Audience Choice </h4>
+<p align="center">
+    <a href="https://github.com/jimiracle/YAIQ">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 📄 이전 논문을 이븐하게 읽지 않았어요 </h4>
+<p align="center">
+    <a href="https://github.com/yaicon-5th-team-otb/yaicon-our-topic-is-blank">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🧑‍🍳 방구석 흑백요리사 </h4>
+<p align="center">
+    <a href="https://github.com/HYUNAHKO/Recipe-Generation/tree/master">
+       <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> ✨ YaifeSearch </h4>
+<p align="center">
+    <a href="https://github.com/2020147570/hate-speech-detection-and-mitigation">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🕹️ 밑바닥부터 시작하는 Robotics </h4>
+<p align="center">
+    <a href="https://github.com/wkdalswns0427/Bolt_PhaseControl">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🍄 YArIo </h4>
+<p align="center">
+    <a href="https://github.com/f56e751/yario_grid">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+<h4 align="center"> 🎯 FIVE GUYS - finding MBTI </h4>
+<p align="center">
+    <a href="https://github.com/noadforeside/MLM_Fine_Tuning_MBTI">
+        <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    </a>
+</p>
+
+</details>
+
+---
 <h3 align="center">YAI <mark>13th</mark> open project</h3>
 
 <details>
