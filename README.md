@@ -88,7 +88,7 @@
     </a>
 </p>
 
-<h4 align="center"> ✨ 3.5전1컴컴 </h4>
+<h4 align="center"> ✨ 3.5전1컴 </h4>
 <p align="center">
     <a href="https://github.com/Kwak-MJ/YAI_2025springYAICON_Distillation/tree/main">
         <img src="https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
